@@ -1,0 +1,6 @@
+Employeeid,firstName,lastName,Salary,Location,status
+2221,Madhurika1,developer1,300001,karnataka1,active1
+2221,Jyothi1,intelligent1,200001,Vizag1
+2221,Anilbabu1,,500001,Hyderabad1,active1
+2221,Narendra1,manmadha1,,Guntur1,inactive1
+22214,Harikrishna,pavuluri,10000,,active
